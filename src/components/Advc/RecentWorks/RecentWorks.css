@@ -1,0 +1,10 @@
+.S-recentworks {
+    width: 50%;
+    height: 500px;
+    /* padding: 20px; */
+    overflow: scroll;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

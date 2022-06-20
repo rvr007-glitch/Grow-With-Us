@@ -1,0 +1,15 @@
+.S-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.S-card-title {
+    margin: 0 ;
+}
+
+.S-card-cost {
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
